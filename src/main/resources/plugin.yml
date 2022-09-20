@@ -1,0 +1,9 @@
+name: InventoriesAndItems
+version: '${project.version}'
+main: me.shadow_warrior_.inventoriesanditems.InventoriesAndItems
+api-version: 1.16
+authors: [ shadow_warrior_ ]
+description: Inventories and Items
+commands:
+  menu:
+    description: Opens a menu
